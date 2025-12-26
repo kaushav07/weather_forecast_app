@@ -5,7 +5,7 @@ This project focuses only on **user interface design and layout**, not on real-t
 
 ---
 
-## 🎨 Purpose of the Project
+## Purpose of the Project
 
 - Practice Flutter UI design
 - Build clean and responsive layouts
